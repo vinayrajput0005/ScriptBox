@@ -1,6 +1,6 @@
 # ScriptBox
 Welcome to ScriptBox, a versatile collection of miscellaneous scripts and utilities. This repository serves as a curated library of useful scripts for various purposes, making it easier for developers, sysadmins, and enthusiasts to find handy solutions to common tasks.
-Usage:
+Usage: Script_1: move_files.py
 
     Preparation:
         Ensure Python is installed.
