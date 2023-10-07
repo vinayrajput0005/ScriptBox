@@ -1,5 +1,6 @@
 # ScriptBox
 Welcome to ScriptBox, a versatile collection of miscellaneous scripts and utilities. This repository serves as a curated library of useful scripts for various purposes, making it easier for developers, sysadmins, and enthusiasts to find handy solutions to common tasks.
+
 Usage: Script_1: move_files.py
 
     Preparation:
@@ -30,5 +31,7 @@ Usage: Script_1: move_files.py
 Owner Details:
 
     Email: srm.vinay0005@gmail.com
+    Google Scholar: https://scholar.google.com/citations?user=YnIqsiAAAAAJ&hl=en
+    Research Gate: https://www.researchgate.net/profile/Vinay-Rajput-2
 
 Please use this script responsibly, taking data backup into consideration.
